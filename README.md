@@ -9,6 +9,11 @@ Aplicação desktop simples para **gestão de produtos**, desenvolvida em **Pyth
 
 ---
 
+![image](https://github.com/user-attachments/assets/11601d3b-ad94-4192-a11b-ed5e881b12e6)
+
+
+---
+
 ## ⚙️ Funcionalidades
 
 * ✅ **Cadastrar** novos produtos
